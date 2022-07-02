@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "http://isuii.rf.gd/$1"}
+      {"src": "/(.*)","dest": "http://isuii.eu5.org/$1"}
   ]
 }
